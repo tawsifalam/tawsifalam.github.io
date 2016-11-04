@@ -7,27 +7,11 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Introducing chalk</title>
-        <description>Chalk is a high quality, completely customisable, performant and 100% free blog template for Jekyll.</description>
-        <pubDate>Mon, 17 Oct 2016 00:00:00 +0600</pubDate>
-        <link>http://localhost:4000/posts/introducing-chalk</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/introducing-chalk</guid>
-      </item>
-    
-      <item>
-        <title>How to configure Chalk</title>
-        <description>Learn more about the config file for Chalk and how to set it up properly.</description>
-        <pubDate>Sun, 16 Oct 2016 00:00:00 +0600</pubDate>
-        <link>http://localhost:4000/posts/configuring-chalk</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/configuring-chalk</guid>
-      </item>
-    
-      <item>
-        <title>Chalk sample post with all elements</title>
-        <description>Have a look at all the predesigned elements you can use in Chalk.</description>
-        <pubDate>Sat, 15 Oct 2016 00:00:00 +0600</pubDate>
-        <link>http://localhost:4000/posts/chalk-sample-post-with-all-elements</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/chalk-sample-post-with-all-elements</guid>
+        <title>Using ESlint with atom</title>
+        <description>We will setup ESlint for atom</description>
+        <pubDate>Fri, 04 Nov 2016 00:00:00 +0600</pubDate>
+        <link>http://localhost:4000/posts/using-eslint-with-atom</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/using-eslint-with-atom</guid>
       </item>
     
   </channel>
