@@ -3,15 +3,15 @@
   <channel>
     <title>Tawsif Alam</title>
     <description></description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://tawsifalam.github.io</link>
+    <atom:link href="https://tawsifalam.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Using ESlint with atom</title>
-        <description>We will setup ESlint for atom</description>
+        <description>We will setup ESlint for atom for React Development</description>
         <pubDate>Fri, 04 Nov 2016 00:00:00 +0600</pubDate>
-        <link>http://localhost:4000/posts/using-eslint-with-atom</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/using-eslint-with-atom</guid>
+        <link>https://tawsifalam.github.io/posts/using-eslint-with-atom</link>
+        <guid isPermaLink="true">https://tawsifalam.github.io/posts/using-eslint-with-atom</guid>
       </item>
     
   </channel>
